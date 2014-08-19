@@ -11,8 +11,8 @@ package pantallas;
 public class Biblioteca extends javax.swing.JFrame {
 
     /**
-     * Creates new form Biblioteca
-     */
+     * Creates new form BibliotecaXD
+     */   
     public Biblioteca() {
         initComponents();
     }
